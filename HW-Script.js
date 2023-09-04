@@ -32,6 +32,7 @@ console.log(masBig);
 
 
 // Задание 5
+
 let array1 = [1, 1, 1];
 
 array1.push(2, 2, 2);
